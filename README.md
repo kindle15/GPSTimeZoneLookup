@@ -1,5 +1,9 @@
 GPSTimeZoneLookup
 =================
+November 2025
+Added in all of the required libraries (header files).
+
+
 https://github.com/rkhamilton/GPSTimeZoneLookup
 
 Ryan Hamilton
